@@ -45,6 +45,10 @@
   Sistema di riconoscimento e catalogazione delle malattie della vite.  
   👨‍🔬 Sviluppato per il corso **AI-LAB** (Computer Vision & NLP), A.A. 2024/2025.
 
+## 📌 Miei appunti
+
+- [![Notion](https://img.shields.io/badge/-My%20University%20Notion-000000?logo=notion&logoColor=white)](https://observant-card-0a9.notion.site/My-University-Notion-1239ae1a711641cf979900bdc39b2b2f)
+
 ---
 
 ## 📫 Contatti

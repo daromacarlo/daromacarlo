@@ -33,6 +33,7 @@
 ![UML](https://img.shields.io/badge/-UML-007ACC?logo=uml&logoColor=white)
 ![First Order Logic](https://img.shields.io/badge/-First--Order%20Logic-yellow)
 ![Visual Paradigm](https://img.shields.io/badge/-Visual%20Paradigm-0E1C36?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ### ⚙️ Altro  
 ![Tecnico Informatico](https://img.shields.io/badge/-Tecnico%20Informatico-008080?logo=windows&logoColor=white)

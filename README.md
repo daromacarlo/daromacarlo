@@ -2,7 +2,6 @@
 
 <p align="center">
   🎓 Studente di Informatica presso <strong>Università La Sapienza di Roma</strong><br>
-  💻 Appassionato di Computer Vision, Intelligenza Artificiale e Sistemi Distribuiti
 </p>
 
 ---

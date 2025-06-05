@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![Assembly (MIPS32)](https://img.shields.io/badge/-MIPS-EF4135?logo=mips&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/MIPS--Assembly-4B0082?logo=semanticscholar&logoColor=white)
 
 ### 🌐 Web & Database  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -33,12 +33,13 @@
 
 ### 🧩 Design & Modellazione  
 ![UML](https://img.shields.io/badge/-UML-007ACC?logo=uml&logoColor=white)
-![First Order Logic](https://img.shields.io/badge/-First--Order%20Logic-yellow)
-![Visual Paradigm](https://img.shields.io/badge/-Visual%20Paradigm-0E1C36?logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![First Order Logic](https://img.shields.io/badge/First--Order%20Logic-FBC02D?logo=protonmail&logoColor=black)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-1B1F23?logo=airplayvideo&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ### ⚙️ Altro  
-![Tecnico Informatico](https://img.shields.io/badge/-Tecnico%20Informatico-008080?logo=windows&logoColor=white)
+![Tecnico Informatico](https://img.shields.io/badge/Tecnico%20Informatico-008080?logo=microsoft&logoColor=white)
 
 ---
 

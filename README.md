@@ -29,5 +29,5 @@ Sistema di riconoscimento e catalogazione delle malattie della vite.
 <p align="center">
   <strong>✨ Grazie per aver visitato il mio profilo! ✨</strong><br>
   
-  <img src="https://komarev.com/ghpvc/?username=CarloDaRomadev&label=Profilo+visitato&color=blueviolet" alt="Visite al profilo">
+  <img src="https://komarev.com/ghpvc/?username=CarloDaRomadev&label=Visite+profilo&color=blueviolet" alt="Visite al profilo">
 </p>

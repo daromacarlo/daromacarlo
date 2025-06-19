@@ -6,9 +6,11 @@
 
 ---
 
-## 📌 Progetti recenti
+- 🚨 [**Vulnerabilità XSS & Sniffing**](https://github.com/CarloDaRomadev/xss-sniffing-demo)  
+  Simulazione di attacchi XSS e credential sniffing in ambiente controllato.  
+  👨‍💻 Sviluppato per il corso **Sicurezza Informatica**, A.A. 2024/2025.
 
-- 🎯 [**Pernosphere**](https://github.com/CarloDaRomadev/Pernosphere)  
+- 🌿 [**Pernosphere**](https://github.com/CarloDaRomadev/Pernosphere)  
   Sistema di riconoscimento e catalogazione delle malattie della vite.  
   👨‍🔬 Sviluppato per il corso **AI-LAB** (Computer Vision & NLP), A.A. 2024/2025.
 

@@ -6,7 +6,7 @@
 
 ---
 
-- 🚨 [**Vulnerabilità XSS & Sniffing**](https://github.com/CarloDaRomadev/xss-sniffing-demo)  
+- 🚨 [**Vulnerabilità XSS & Sniffing**](https://github.com/CarloDaRomadev/Sicurezza)
   Simulazione di attacchi XSS e credential sniffing in ambiente controllato.  
   👨‍💻 Sviluppato per il corso **Sicurezza Informatica**, A.A. 2024/2025.
 

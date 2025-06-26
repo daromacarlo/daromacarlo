@@ -8,6 +8,11 @@
 
 ### 🔥 Progetti Recenti
 
+#### 💬 [**WASAText**](https://github.com/CarloDaRomadev/wasa)
+Applicazione web di messaggistica istantanea con supporto a chat private, di gruppo, GIF, reazioni e inoltro.
+🧩 Sviluppata con architettura client-server e interfaccia moderna. Include funzionalità di login semplificato, gestione gruppi, invio e ricezione di messaggi in tempo reale.
+👨‍💻 Progetto per il corso Tecnologie Web, A.A. 2024/2025.
+
 #### 🚨 [**Vulnerabilità XSS & Sniffing**](https://github.com/CarloDaRomadev/Sicurezza)
 Simulazione di attacchi XSS e credential sniffing in ambiente controllato.  
 👨‍💻 Sviluppato per il corso **Sicurezza Informatica**, A.A. 2024/2025.  

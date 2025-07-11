@@ -1,4 +1,4 @@
-<h1 align="center">Ciao! Sono Carlo 👋</h1>
+<h1 align="center">Wela! Sono Carlo 👋</h1>
 
 <p align="center">
   🎓 Studente di Informatica presso <strong>Università La Sapienza di Roma</strong><br>
@@ -6,7 +6,6 @@
 
 📝 [**Il mio Notion**](https://www.notion.so/95b61d2fb89648b7b4e56a80c236c07a)
 
-### 📫 Contatti
 📧 Email: [daromacarlo@gmail.com](mailto:daromacarlo@gmail.com)  
 
 ---

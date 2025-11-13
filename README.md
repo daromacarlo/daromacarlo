@@ -4,7 +4,7 @@
   🎓 Studente di Informatica presso <strong>Università La Sapienza di Roma</strong><br>
 </p>
 
-📝 [**Il mio Notion**]([https://www.notion.so/95b61d2fb89648b7b4e56a80c236c07a](https://observant-card-0a9.notion.site/My-University-Notion-1239ae1a711641cf979900bdc39b2b2f?source=copy_link))
+📝 [**Il mio Notion**](https://observant-card-0a9.notion.site/My-University-Notion-1239ae1a711641cf979900bdc39b2b2f?source=copy_link)
 
 📧 Email: [daromacarlo@gmail.com](mailto:daromacarlo@gmail.com)  
 

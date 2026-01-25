@@ -1,6 +1,3 @@
-![2317025-paesaggio-marino-in-tempo-nuvoloso-con-cielo-drammatico-gratuito-foto](https://github.com/user-attachments/assets/2774a334-4611-4bc9-945a-ef5548356eea)
-
-
 <h1 align="center">Wela! Sono Carlo 👋</h1>
 
 <p align="center">

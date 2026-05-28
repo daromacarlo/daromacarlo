@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1200&color=FFA07A&center=true&vCenter=true&width=650&lines=Ciao!+Sono+Carlo;Come+mai+da+queste+parti?;Dai+un'occhiata+ai+miei+progetti;Se+ti+va..." alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1200&color=FFA07A&center=true&vCenter=true&width=650&lines=Ciao!+Sono+Carlo" alt="Typing Effect" />
   </a>
 </h1>
 
